@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome, I'm not Dr. Samuel Hayden
+
+> I'm just a man, sitting in front of a computer ...
+
+I'm currently working on [Noderalis](https://github.com/noderalis/noderalis), my own application framework. At the time of writing this (2020-09-04T12:02:32Z), it's a mess. My preferred development strategy is to develop a 0-series which lays down the basics. Followed by a 1.0 refactor, and finally a semver-series of iterative-opimization. I'm self taught which is why my strategies aren't standard, as most of my self taught skills are tearing apart large projects to extract what I'm looking for and figure out what it does later. I'm very prone to rushing myself which doesn't at all help my learning. 
+
+I take on clients occassionally in which I work in a professional and strategized manner which tells me although I have the discipline, I lack the innate self discipline.
+
+*PS: datetime is the only date and time.*
 
 <!--
 **TheGrimSilence/TheGrimSilence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
