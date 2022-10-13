@@ -1,12 +1,14 @@
-### Welcome, I'm not Dr. Samuel Hayden
+Hey! 🍻
 
-> I'm just a man, sitting in front of a computer ...
+My name's Adrian, but everyone calls me Sinclair. I'm a self-taught fullstack developer and have been tinkering since 2016. I'm a high-functioning autistic who struggles to maintain focus on a single project at a time, so try not to look at the repositories panel. 
 
-I'm currently working on [Noderalis](https://github.com/noderalis/noderalis), my own application framework. At the time of writing this (2020-09-04T12:02:32Z), it's a mess. My preferred development strategy is to develop a 0-series which lays down the basics. Followed by a 1.0 refactor, and finally a semver-series of iterative-opimization. I'm self taught which is why my strategies aren't standard, as most of my self taught skills are tearing apart large projects to extract what I'm looking for and figure out what it does later. I'm very prone to rushing myself which doesn't at all help my learning. 
+## Noderalis
 
-I take on clients occassionally in which I work in a professional and strategized manner which tells me although I have the discipline, I lack the innate self discipline.
+My biggest project is called Noderalis. It's currently in private development but is a website builder gone native like the old days of Dreamweaver but with modern tooling and frameworks such as Next.js with future support for creating applications through Tauri.
 
-*PS: datetime is the only date and time.*
+## Other experience
+
+I'm always learning and trying to build new things, but my main goal is to develop tools to help developers work faster. Eliminating anything that isn't DRY out of common routines, or even bringing tools that don't exist natively on another system. I used to have a tool called xTouch which brought `touch` on Linux to Windows before WSL was a thing and you could just spin up Ubuntu commands on a windows filesystem.
 
 <!--
 **TheGrimSilence/TheGrimSilence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
