@@ -2,8 +2,6 @@ Hey! 🍻
 
 My name's Adrian, but everyone calls me Sinclair. I'm a self-taught fullstack developer and have been tinkering since 2016. I'm a high-functioning autistic who struggles to maintain focus on a single project at a time, so try not to look at the repositories panel. 
 
-## Noderalis
-
 My biggest project is called Noderalis. It's currently in private development but is a website builder gone native like the old days of Dreamweaver but with modern tooling and frameworks such as Next.js with future support for creating applications through Tauri.
 
 ## Other experience
